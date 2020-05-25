@@ -18,7 +18,18 @@ $ composer require setono/variable-resolver
 
 ## Basic usage
 
-TODO
+```php
+use Setono\VariableResolver\VariableResolver;
+use Setono\VariableResolver\Parser\PercentageWrappingParser;
+use Setono\VariableResolver\Variable\Value\PhpBinValue;
+
+$str = '%PHP% bin/console run:command';
+
+$variableResolver = new VariableResolver(new PercentageWrappingParser());
+$variableResolver->addValue('PHP', new PhpBinValue());
+
+echo $variableResolver->resolve($str); // output: /usr/bin/php bin/console run:command
+```
 
 [ico-version]: https://poser.pugx.org/setono/variable-resolver/v/stable
 [ico-unstable-version]: https://poser.pugx.org/setono/variable-resolver/v/unstable
