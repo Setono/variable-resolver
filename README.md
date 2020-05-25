@@ -20,14 +20,14 @@ $ composer require setono/variable-resolver
 
 TODO
 
-[ico-version]: https://poser.pugx.org/setono/placeholder/v/stable
-[ico-unstable-version]: https://poser.pugx.org/setono/placeholder/v/unstable
-[ico-license]: https://poser.pugx.org/setono/placeholder/license
-[ico-github-actions]: https://github.com/Setono/placeholder/workflows/build/badge.svg
-[ico-code-coverage]: https://img.shields.io/scrutinizer/coverage/g/Setono/placeholder.svg
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/Setono/placeholder.svg
+[ico-version]: https://poser.pugx.org/setono/variable-resolver/v/stable
+[ico-unstable-version]: https://poser.pugx.org/setono/variable-resolver/v/unstable
+[ico-license]: https://poser.pugx.org/setono/variable-resolver/license
+[ico-github-actions]: https://github.com/Setono/variable-resolver/workflows/build/badge.svg
+[ico-code-coverage]: https://img.shields.io/scrutinizer/coverage/g/Setono/variable-resolver.svg
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/Setono/variable-resolver.svg
 
-[link-packagist]: https://packagist.org/packages/setono/placeholder
-[link-github-actions]: https://github.com/Setono/placeholder/actions
-[link-code-coverage]: https://scrutinizer-ci.com/g/Setono/placeholder/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/Setono/placeholder
+[link-packagist]: https://packagist.org/packages/setono/variable-resolver
+[link-github-actions]: https://github.com/Setono/variable-resolver/actions
+[link-code-coverage]: https://scrutinizer-ci.com/g/Setono/variable-resolver/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/Setono/variable-resolver
